@@ -1,6 +1,0 @@
-MONGODB_URI  = mongodb+srv://karan161003:svbCBW1ANCQ3nTBF@paras-test.x5kgx.mongodb.net/?retryWrites=true&w=majority&appName=paras-test
-SESSION_SECRET = 16ru&aa3pu&arua3p3a3p3p13pp13p16iihie6ru&aS8f99hiWi
-ACCESS_TOKEN_SECRET = jSgRggZghGxSSGhoGfyQYuqBOIcsVVZodzFUYdiqKHRdrWGhqAuVex2InzNf51uN
-ACCESS_TOKEN_EXPIRY = 1h
-REFRESH_TOKEN_SECRET = rwCx6eakbtKb92wZJCMA8ubmUMO1c2HSXHHnIk4znIlZ2JGVPi2XzNyZcw7MHAwP
-REFRESH_TOKEN_EXPIRY = 365d
